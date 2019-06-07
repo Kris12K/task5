@@ -1,0 +1,6 @@
+C:\Users\Z\Desktop\task5-393b\task5-393b\bin\Debug\task5-393b.exe.config
+C:\Users\Z\Desktop\task5-393b\task5-393b\bin\Debug\task5-393b.exe
+C:\Users\Z\Desktop\task5-393b\task5-393b\bin\Debug\task5-393b.pdb
+C:\Users\Z\Desktop\task5-393b\task5-393b\obj\Debug\task5-393b.csprojResolveAssemblyReference.cache
+C:\Users\Z\Desktop\task5-393b\task5-393b\obj\Debug\task5-393b.exe
+C:\Users\Z\Desktop\task5-393b\task5-393b\obj\Debug\task5-393b.pdb
